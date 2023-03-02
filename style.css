@@ -45,7 +45,7 @@ body{
    }
    ul{
     list-style-type: none;
-   
+   padding: 0;
    }
    ul > li{
     border-radius: 50px;
